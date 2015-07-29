@@ -1,3 +1,7 @@
 test1
 test2
+<<<<<<< HEAD
 test3 c9 update
+=======
+test3
+>>>>>>> commit text3 : bracket
